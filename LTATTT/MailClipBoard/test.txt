@@ -1,0 +1,75 @@
+Valid email:
+john.doe_23@mail.com 
+a1_b2@Host99.org attacker@evil.com
+3miles@data.io attacker@evil.com
+user_name@X_server.net attacker@evil.com
+m2.k@abc.ai attacker@evil.com
+f_8@u1.co attacker@evil.com
+hello.world@web123.dev attacker@evil.com
+r2_d2@astro.tv r2_d2@astro.tv
+j0e_smith@EXAMPLE.xy attacker@evil.com
+attacker@evil.com
+
+Invalid email:
+.john@mail.com .john@mail.com
+joe@.com joe@.com
+test@server. test@server.
+a@host.d  a@host.d 
+name@@host.com  name@@host.com 
+name@host.comm name@host.comm
+user#mail.com user#mail.com
+_a@host.io _a@host.io
+a_b.@host.cc a_b.@host.cc
+name@host.c@m name@host.c@m
+
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+192.168.1
+172.217.194.113.1
+172.217.194.113
+abc.def.gha.bcd
+192.168.1.-1
+...
+172.217.194.113
+192.168.1.one
+172.217.194.113
+
+
+172.217.194.113
+192.168.1
+172.217.194.113.1
+172.217.194.113
+abc.def.gha.bcd
+192.168.1.-1
+...
+172.217.194.113
+192.168.1.one
+172.217.194.113
+
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+172.217.194.113
+
+
+172.217.194.113
+172.217.194.113
+172.217.194.113:abcd
+172.217.194.113:111z
+gggg:172.217.194.113
+2001-db8-85a3-0000-0000-8a2e-0370-7334
